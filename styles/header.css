@@ -64,4 +64,13 @@
     font-family: var(--fonte-secundario);
     font-size: 30px;
   }
+
+  .container__titulo {
+    font-weight: 400;
+    display: block;
   }
+  
+  .container__titulo--negrito {
+    font-weight: 700;
+  }
+}
